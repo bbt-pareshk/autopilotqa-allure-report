@@ -1,0 +1,17 @@
+[2026-02-18T12:46:37.594Z] [INFO] RuntimeStore empty. Using generated email: pw_email_20260218124637w2r0594m@mailinator.com
+[2026-02-18T12:46:37.594Z] [INFO] [PREREQUISITE] Checking for proof of existence for: pw_email_20260218124637w2r0594m@mailinator.com
+[2026-02-18T12:46:37.595Z] [INFO] [PREREQUISITE] Proceeding with on-the-fly registration for: pw_email_20260218124637w2r0594m@mailinator.com
+[2026-02-18T12:46:37.595Z] [INFO] Prerequisite not met: User pw_email_20260218124637w2r0594m@mailinator.com not found. Registering...
+[2026-02-18T12:46:40.276Z] [INFO] Submitting registration form
+[2026-02-18T12:46:40.544Z] [INFO] Registration did not proceed to Verify page. Checking if user pw_email_20260218124637w2r0594m@mailinator.com already exists.
+[2026-02-18T12:46:40.544Z] [SUCCESS] Prerequisite satisfied: User pw_email_20260218124637w2r0594m@mailinator.com already exists in app database.
+[2026-02-18T12:46:40.544Z] [INFO] Saving user email: pw_email_20260218124637w2r0594m@mailinator.com
+[2026-02-18T12:46:40.545Z] [INFO] Saving user verification status: true
+[2026-02-18T12:46:40.545Z] [NAV] Navigating to Login
+[2026-02-18T12:46:41.038Z] [STEP] Navigating to Forgot Password page
+[2026-02-18T12:46:42.922Z] [STEP] Requesting password reset for: pw_email_20260218124637w2r0594m@mailinator.com
+[2026-02-18T12:46:43.066Z] [ASSERT] Verifying toast message: Password reset sent successfully
+[2026-02-18T12:46:44.949Z] [STEP] Processing reset link via Mailinator
+[2026-02-18T12:46:44.986Z] [STEP] Opening Mailinator inbox: https://www.mailinator.com/v4/public/inboxes.jsp?to=pw_email_20260218124637w2r0594m
+[2026-02-18T12:46:46.248Z] [SUCCESS] Mailinator inbox loaded
+[2026-02-18T12:46:46.249Z] [STEP] Waiting for email with subject keywords: reset, password, forgot

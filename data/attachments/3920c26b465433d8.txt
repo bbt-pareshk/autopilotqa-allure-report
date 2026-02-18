@@ -1,4 +1,0 @@
-[2026-02-18T09:08:41.095Z] [STEP] Navigating to Profile Payments page
-[2026-02-18T09:08:41.095Z] [STEP] Opening Profile → Payments page
-[2026-02-18T09:08:46.984Z] [SUCCESS] Profile Payments page ready
-[2026-02-18T09:08:46.985Z] [SUCCESS] Profile › Payment section loaded successfully

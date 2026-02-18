@@ -1,1 +1,0 @@
-[2026-02-18T09:07:55.900Z] [WARN] [PREREQUISITE] Cache stale: User pw_email_202602180907182753dw@mailinator.com proof found but verification failed. Re-registering.

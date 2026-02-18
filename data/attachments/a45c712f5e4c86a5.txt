@@ -1,3 +1,0 @@
-[2026-02-18T09:08:16.127Z] [STEP] Navigating to Login page
-[2026-02-18T09:08:17.026Z] [STEP] Verifying "Login" text visibility
-[2026-02-18T09:08:18.003Z] [SUCCESS] App Load › Application loads successfully (Login page visible)
