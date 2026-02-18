@@ -1,0 +1,2 @@
+[2026-02-18T05:24:14.474Z] [STEP] Attempting login with short password: Pass1!
+[2026-02-18T05:24:15.945Z] [STEP] Verifying login failure for short password

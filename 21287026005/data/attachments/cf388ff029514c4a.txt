@@ -1,2 +1,0 @@
-[CHAT WIDGET] HIDDEN | Test: authenticate admin user
-▶ Base URL (project): https://qa.hocodev.co/

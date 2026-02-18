@@ -1,0 +1,1 @@
+[2026-02-18T05:24:19.404Z] [STEP] Attempting login with empty credentials
