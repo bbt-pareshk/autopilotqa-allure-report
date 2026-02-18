@@ -1,6 +1,0 @@
-[2026-02-18T05:32:45.663Z] [INFO] [leader] Debug - CI: true, Skip: false, File: false at /home/runner/work/playwright-enterprise-project/playwright-enterprise-project/storage/auth/leader.json
-[2026-02-18T05:32:45.663Z] [STEP] Logging in as leader
-[2026-02-18T05:32:45.664Z] [NAV] Navigating to Login
-[2026-02-18T05:32:47.955Z] [SUCCESS] Authenticated successfully as leader
-[2026-02-18T05:32:54.312Z] [SUCCESS] Login successful and dashboard loaded
-[2026-02-18T05:32:59.357Z] [SUCCESS] leader session captured and cached.

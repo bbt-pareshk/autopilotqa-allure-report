@@ -1,0 +1,19 @@
+[2026-02-18T09:07:24.035Z] [INFO] Using existing user email from store: pw_email_202602180907182753dw@mailinator.com
+[2026-02-18T09:07:24.035Z] [INFO] [PREREQUISITE] Checking for proof of existence for: pw_email_202602180907182753dw@mailinator.com
+[2026-02-18T09:07:24.035Z] [INFO] [PREREQUISITE] Optimization Cache hit: Checking if user pw_email_202602180907182753dw@mailinator.com is active in application.
+[2026-02-18T09:07:24.898Z] [INFO] Logging in user: pw_email_202602180907182753dw@mailinator.com
+[2026-02-18T09:07:26.703Z] [INFO] [PREREQUISITE] Proceeding with on-the-fly registration for: pw_email_202602180907182753dw@mailinator.com
+[2026-02-18T09:07:26.703Z] [INFO] Prerequisite not met: User pw_email_202602180907182753dw@mailinator.com not found. Registering...
+[2026-02-18T09:07:28.752Z] [INFO] Submitting registration form
+[2026-02-18T09:07:44.144Z] [INFO] Registration did not proceed to Verify page. Checking if user pw_email_202602180907182753dw@mailinator.com already exists.
+[2026-02-18T09:07:44.145Z] [SUCCESS] Prerequisite satisfied: User pw_email_202602180907182753dw@mailinator.com already exists in app database.
+[2026-02-18T09:07:44.145Z] [INFO] Saving user email: pw_email_202602180907182753dw@mailinator.com
+[2026-02-18T09:07:44.145Z] [INFO] Saving user verification status: true
+[2026-02-18T09:07:44.146Z] [NAV] Navigating to Login
+[2026-02-18T09:07:44.771Z] [STEP] Navigating to Forgot Password page
+[2026-02-18T09:07:46.198Z] [STEP] Requesting password reset for: pw_email_202602180907182753dw@mailinator.com
+[2026-02-18T09:07:46.415Z] [ASSERT] Verifying toast message: Password reset sent successfully
+[2026-02-18T09:07:46.810Z] [STEP] Processing reset link via Mailinator
+[2026-02-18T09:07:46.839Z] [STEP] Opening Mailinator inbox for: pw_email_202602180907182753dw
+[2026-02-18T09:07:48.125Z] [SUCCESS] Mailinator inbox loaded
+[2026-02-18T09:07:48.125Z] [STEP] Waiting for email with subject keywords: reset, password, forgot

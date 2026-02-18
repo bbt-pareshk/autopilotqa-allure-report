@@ -1,0 +1,22 @@
+[2026-02-18T09:08:50.613Z] [INFO] Starting Step 2: Group Activation
+[2026-02-18T09:08:50.613Z] [STEP] Activating group: PW_Group_20260218_090837_6803gp
+[2026-02-18T09:08:50.614Z] [STEP] Navigating to My Groups page
+[2026-02-18T09:08:51.436Z] [STEP] Waiting for My Groups page content
+[2026-02-18T09:08:57.871Z] [STEP] Priority scan initiated for group: PW_Group_20260218_090837_6803gp
+[2026-02-18T09:09:11.302Z] [SUCCESS] Priority group found: PW_Group_20260218_090837_6803gp
+
+1 Member
+
+Activate your group
+[2026-02-18T09:09:11.323Z] [SUCCESS] Priority group is inactive, opening activation flow
+[2026-02-18T09:09:12.176Z] [SUCCESS] Activation or payment page detected for priority group
+[2026-02-18T09:09:12.176Z] [STEP] Waiting for Stripe full form
+[2026-02-18T09:09:20.713Z] [SUCCESS] Stripe form ready
+[2026-02-18T09:09:20.713Z] [STEP] Filling Stripe full payment form
+[2026-02-18T09:09:20.713Z] [STEP] Selecting country
+[2026-02-18T09:09:22.502Z] [SUCCESS] Stripe form filled
+[2026-02-18T09:09:22.502Z] [STEP] Submitting payment
+[2026-02-18T09:09:22.527Z] [STEP] Clicking Pay button
+[2026-02-18T09:09:25.569Z] [SUCCESS] Payment success confirmed
+[2026-02-18T09:09:25.569Z] [SUCCESS] Group activation flow completed for: PW_Group_20260218_090837_6803gp
+[2026-02-18T09:09:25.569Z] [SUCCESS] Step 2 Completed: Group activated.

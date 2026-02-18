@@ -1,0 +1,5 @@
+[2026-02-18T09:08:24.544Z] [STEP] Opening My Groups page
+[2026-02-18T09:08:24.544Z] [STEP] Navigating to My Groups page
+[2026-02-18T09:08:25.758Z] [STEP] Waiting for My Groups page content
+[2026-02-18T09:08:32.719Z] [STEP] Verifying group cards are visible
+[2026-02-18T09:08:32.769Z] [SUCCESS] My Group listing loaded successfully with 257 groups
