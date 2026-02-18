@@ -1,2 +1,0 @@
-[2026-02-18T12:48:17.683Z] [STEP] Verifying chat widget visibility in Guest state
-[2026-02-18T12:48:20.230Z] [SUCCESS] Chat widget is visible to Guest users on Login page

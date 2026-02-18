@@ -1,0 +1,32 @@
+[2026-02-18T12:55:56.805Z] [INFO] Using existing user email from store: pw_email_20260218125555w3r0438o@mailinator.com
+[2026-02-18T12:55:56.806Z] [INFO] [PREREQUISITE] Checking for proof of existence for: pw_email_20260218125555w3r0438o@mailinator.com
+[2026-02-18T12:55:56.807Z] [INFO] [PREREQUISITE] Optimization Cache hit: Checking if user pw_email_20260218125555w3r0438o@mailinator.com is active in application.
+[2026-02-18T12:55:58.026Z] [INFO] Logging in user: pw_email_20260218125555w3r0438o@mailinator.com
+[2026-02-18T12:55:59.789Z] [INFO] [PREREQUISITE] Proceeding with on-the-fly registration for: pw_email_20260218125555w3r0438o@mailinator.com
+[2026-02-18T12:55:59.789Z] [INFO] Prerequisite not met: User pw_email_20260218125555w3r0438o@mailinator.com not found. Registering...
+[2026-02-18T12:56:02.190Z] [INFO] Submitting registration form
+[2026-02-18T12:56:17.607Z] [INFO] Registration did not proceed to Verify page. Checking if user pw_email_20260218125555w3r0438o@mailinator.com already exists.
+[2026-02-18T12:56:17.607Z] [SUCCESS] Prerequisite satisfied: User pw_email_20260218125555w3r0438o@mailinator.com already exists in app database.
+[2026-02-18T12:56:17.608Z] [INFO] Saving user email: pw_email_20260218125555w3r0438o@mailinator.com
+[2026-02-18T12:56:17.609Z] [INFO] Saving user verification status: true
+[2026-02-18T12:56:17.609Z] [NAV] Navigating to Login
+[2026-02-18T12:56:18.473Z] [STEP] Navigating to Forgot Password page
+[2026-02-18T12:56:19.797Z] [STEP] Requesting password reset for: pw_email_20260218125555w3r0438o@mailinator.com
+[2026-02-18T12:56:19.971Z] [ASSERT] Verifying toast message: Password reset sent successfully
+[2026-02-18T12:56:20.407Z] [STEP] Processing reset link via Mailinator
+[2026-02-18T12:56:20.439Z] [STEP] Opening Mailinator inbox: https://www.mailinator.com/v4/public/inboxes.jsp?to=pw_email_20260218125555w3r0438o
+[2026-02-18T12:56:21.526Z] [SUCCESS] Mailinator inbox loaded
+[2026-02-18T12:56:21.526Z] [STEP] Waiting for email with subject keywords: reset, password, forgot
+[2026-02-18T12:56:21.601Z] [SUCCESS] Matched email: "	MentalHappy	Password reset requested	just now..."
+[2026-02-18T12:56:24.741Z] [STEP] Clicking reset link
+[2026-02-18T12:56:24.741Z] [INFO] Waiting for email body iframe to be visible...
+[2026-02-18T12:56:24.798Z] [INFO] Checking selector 1/3. Matches found: 0
+[2026-02-18T12:56:24.811Z] [INFO] Checking selector 2/3. Matches found: 2
+[2026-02-18T12:56:24.811Z] [INFO] Clicking reset link using evaluate...
+[2026-02-18T12:56:24.872Z] [SUCCESS] Reset link interaction completed
+[2026-02-18T12:56:25.047Z] [STEP] Completing password reset in new tab
+[2026-02-18T12:56:26.941Z] [INFO] Entering new password: TestPassword123!
+[2026-02-18T12:56:27.213Z] [INFO] Entering confirm password
+[2026-02-18T12:56:27.285Z] [INFO] Clicking Confirm Password button
+[2026-02-18T12:56:27.391Z] [ASSERT] Verifying toast message: Password updated!
+[2026-02-18T12:56:27.766Z] [SUCCESS] Forgot Password test completed successfully
