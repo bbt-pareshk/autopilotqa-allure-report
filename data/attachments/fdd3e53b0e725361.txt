@@ -1,0 +1,4 @@
+[2026-02-18T05:36:52.102Z] [STEP] Navigating to Login page
+[2026-02-18T05:36:53.001Z] [STEP] Attempting login with invalid credentials: pw_email_20260218053653001sdr@mailinator.com
+[2026-02-18T05:36:54.489Z] [STEP] Verifying error message visibility
+[2026-02-18T05:36:56.852Z] [SUCCESS] Invalid Login test passed successfully

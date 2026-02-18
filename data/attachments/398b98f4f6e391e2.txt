@@ -1,6 +1,0 @@
-[2026-02-18T05:23:59.276Z] [STEP] Logging in as Member
-[2026-02-18T05:23:59.276Z] [STEP] Logging in as member
-[2026-02-18T05:23:59.276Z] [NAV] Navigating to Login
-[2026-02-18T05:24:01.762Z] [SUCCESS] Authenticated successfully as member
-[2026-02-18T05:24:01.762Z] [ASSERT] Verifying dashboard is loaded
-[2026-02-18T05:24:08.158Z] [SUCCESS] Dashboard load verified

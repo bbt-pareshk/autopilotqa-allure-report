@@ -1,2 +1,0 @@
-[2026-02-18T05:26:08.576Z] [STEP] Attempting login with long password (length: 101)
-[2026-02-18T05:26:10.076Z] [STEP] Verifying login failure for long password

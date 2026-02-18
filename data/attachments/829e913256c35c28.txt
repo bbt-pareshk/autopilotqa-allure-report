@@ -1,0 +1,6 @@
+[2026-02-18T05:36:33.843Z] [STEP] Logging in as Leader
+[2026-02-18T05:36:33.843Z] [STEP] Logging in as leader
+[2026-02-18T05:36:33.844Z] [NAV] Navigating to Login
+[2026-02-18T05:36:36.264Z] [SUCCESS] Authenticated successfully as leader
+[2026-02-18T05:36:36.265Z] [ASSERT] Verifying dashboard is loaded
+[2026-02-18T05:36:42.716Z] [SUCCESS] Dashboard load verified
