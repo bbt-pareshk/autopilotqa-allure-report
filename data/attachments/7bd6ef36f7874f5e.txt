@@ -1,3 +1,0 @@
-[2026-02-18T12:55:37.454Z] [STEP] Attempting login with long password (length: 101)
-[2026-02-18T12:55:37.455Z] [INFO] Logging in user: pw_email_20260218125537w3r04548@mailinator.com
-[2026-02-18T12:55:39.131Z] [STEP] Verifying login failure for long password

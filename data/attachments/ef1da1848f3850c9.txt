@@ -1,0 +1,23 @@
+[2026-02-19T08:58:12.160Z] [INFO] RuntimeStore empty. Using generated email: pw_email_20260219085812w2r0160z@mailinator.com
+[2026-02-19T08:58:12.161Z] [INFO] [PREREQUISITE] Checking for proof of existence for: pw_email_20260219085812w2r0160z@mailinator.com
+[2026-02-19T08:58:12.161Z] [INFO] [PREREQUISITE] Proceeding with on-the-fly registration for: pw_email_20260219085812w2r0160z@mailinator.com
+[2026-02-19T08:58:12.161Z] [INFO] Prerequisite not met: User pw_email_20260219085812w2r0160z@mailinator.com not found. Registering...
+[2026-02-19T08:58:14.898Z] [INFO] Submitting registration form
+[2026-02-19T08:58:15.230Z] [INFO] Registration did not proceed to Verify page. Checking if user pw_email_20260219085812w2r0160z@mailinator.com already exists.
+[2026-02-19T08:58:15.232Z] [SUCCESS] Prerequisite satisfied: User pw_email_20260219085812w2r0160z@mailinator.com already exists in app database.
+[2026-02-19T08:58:15.232Z] [INFO] Saving user email: pw_email_20260219085812w2r0160z@mailinator.com
+[2026-02-19T08:58:15.233Z] [INFO] Saving user verification status: true
+[2026-02-19T08:58:15.233Z] [NAV] Navigating to Login
+[2026-02-19T08:58:15.696Z] [STEP] Navigating to Forgot Password page
+[2026-02-19T08:58:17.709Z] [STEP] Requesting password reset for: pw_email_20260219085812w2r0160z@mailinator.com
+[2026-02-19T08:58:17.884Z] [ASSERT] Verifying toast message: Password reset sent successfully
+[2026-02-19T08:58:19.797Z] [STEP] Processing reset link via Mailinator
+[2026-02-19T08:58:19.849Z] [STEP] Opening Mailinator inbox: https://www.mailinator.com/v4/public/inboxes.jsp?to=pw_email_20260219085812w2r0160z
+[2026-02-19T08:58:21.289Z] [SUCCESS] Mailinator inbox loaded
+[2026-02-19T08:58:21.290Z] [STEP] Waiting for email with subject keywords: reset, password, forgot
+[2026-02-19T08:58:21.405Z] [INFO] Inbox appears empty. Waiting 10s then reloading...
+[2026-02-19T08:58:32.094Z] [INFO] Inbox appears empty. Waiting 10s then reloading...
+[2026-02-19T08:58:42.520Z] [INFO] Inbox appears empty. Waiting 10s then reloading...
+[2026-02-19T08:58:52.929Z] [INFO] Inbox appears empty. Waiting 10s then reloading...
+[2026-02-19T08:59:03.519Z] [INFO] Inbox appears empty. Waiting 10s then reloading...
+[2026-02-19T08:59:13.935Z] [INFO] Inbox appears empty. Waiting 10s then reloading...

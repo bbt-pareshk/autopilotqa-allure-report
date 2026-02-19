@@ -1,0 +1,2 @@
+[2026-02-19T08:59:27.444Z] [NAV] Navigating to Registration
+[2026-02-19T08:59:28.073Z] [STEP] Initialising registration with short password: Pass1!

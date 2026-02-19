@@ -1,0 +1,10 @@
+[2026-02-19T08:59:27.883Z] [STEP] Starting onboarding flow
+[2026-02-19T08:59:27.883Z] [STEP] Selecting Group Leader role
+[2026-02-19T08:59:28.164Z] [SUCCESS] Group Leader role selected
+[2026-02-19T08:59:28.164Z] [STEP] Clicking Continue button
+[2026-02-19T08:59:28.262Z] [STEP] Clicking Skip button
+[2026-02-19T08:59:28.401Z] [STEP] Clicking Skip button
+[2026-02-19T08:59:28.549Z] [STEP] Clicking Skip button
+[2026-02-19T08:59:28.704Z] [SUCCESS] Onboarding flow completed
+[2026-02-19T08:59:28.705Z] [ASSERT] Verifying dashboard is loaded
+[2026-02-19T08:59:30.957Z] [SUCCESS] Dashboard load verified

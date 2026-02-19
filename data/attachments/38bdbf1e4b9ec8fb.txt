@@ -1,0 +1,3 @@
+[2026-02-19T08:58:34.972Z] [STEP] Attempting login with short password: Pass1!
+[2026-02-19T08:58:34.972Z] [INFO] Logging in user: pw_email_20260219085834w3r0972u@mailinator.com
+[2026-02-19T08:58:36.618Z] [STEP] Verifying login failure for short password

@@ -1,2 +1,0 @@
-[2026-02-18T12:56:37.561Z] [SUCCESS] Login successful and dashboard loaded
-[2026-02-18T12:56:37.561Z] [SUCCESS] Dashboard Page loaded correctly for Leader
