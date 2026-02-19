@@ -1,2 +1,0 @@
-[2026-02-19T08:59:30.105Z] [NAV] Navigating to Registration
-[2026-02-19T08:59:30.758Z] [STEP] Initialising registration with long password (length: 101)

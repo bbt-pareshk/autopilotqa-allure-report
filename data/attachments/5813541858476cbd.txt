@@ -1,2 +1,0 @@
-[2026-02-19T08:58:38.998Z] [STEP] Attempt login with empty credentials
-[2026-02-19T08:58:38.999Z] [INFO] Logging in user: 
